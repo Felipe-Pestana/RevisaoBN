@@ -2,7 +2,7 @@
 Destroyer destroyer = new();
 Carrier carrier = new();
 
-Console.Clear();
+//Console.Clear();
 
 char a;
 

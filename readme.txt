@@ -1,0 +1,1 @@
+aqui vão as instruçoes de uso do jogo!
