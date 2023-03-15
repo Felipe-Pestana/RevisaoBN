@@ -1,0 +1,15 @@
+C:\Users\felipe.pestana\source\repos\HelloWorldComandos\bin\Debug\net7.0\HelloWorldComandos.exe
+C:\Users\felipe.pestana\source\repos\HelloWorldComandos\bin\Debug\net7.0\HelloWorldComandos.deps.json
+C:\Users\felipe.pestana\source\repos\HelloWorldComandos\bin\Debug\net7.0\HelloWorldComandos.runtimeconfig.json
+C:\Users\felipe.pestana\source\repos\HelloWorldComandos\bin\Debug\net7.0\HelloWorldComandos.dll
+C:\Users\felipe.pestana\source\repos\HelloWorldComandos\bin\Debug\net7.0\HelloWorldComandos.pdb
+C:\Users\felipe.pestana\source\repos\HelloWorldComandos\obj\Debug\net7.0\HelloWorldComandos.csproj.AssemblyReference.cache
+C:\Users\felipe.pestana\source\repos\HelloWorldComandos\obj\Debug\net7.0\HelloWorldComandos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.pestana\source\repos\HelloWorldComandos\obj\Debug\net7.0\HelloWorldComandos.AssemblyInfoInputs.cache
+C:\Users\felipe.pestana\source\repos\HelloWorldComandos\obj\Debug\net7.0\HelloWorldComandos.AssemblyInfo.cs
+C:\Users\felipe.pestana\source\repos\HelloWorldComandos\obj\Debug\net7.0\HelloWorldComandos.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pestana\source\repos\HelloWorldComandos\obj\Debug\net7.0\HelloWorldComandos.dll
+C:\Users\felipe.pestana\source\repos\HelloWorldComandos\obj\Debug\net7.0\refint\HelloWorldComandos.dll
+C:\Users\felipe.pestana\source\repos\HelloWorldComandos\obj\Debug\net7.0\HelloWorldComandos.pdb
+C:\Users\felipe.pestana\source\repos\HelloWorldComandos\obj\Debug\net7.0\HelloWorldComandos.genruntimeconfig.cache
+C:\Users\felipe.pestana\source\repos\HelloWorldComandos\obj\Debug\net7.0\ref\HelloWorldComandos.dll
